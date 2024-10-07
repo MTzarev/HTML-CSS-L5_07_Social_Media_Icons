@@ -1,0 +1,25 @@
+.dot1, .dot2, .dot3, .dot4, .dot5 {
+  height: 25px;
+  width: 25px;
+  background-color: rgb(238, 238, 238);
+  border: 5px solid rgb(238, 238, 238);
+  border-radius: 50%;
+  display: inline-block;
+  color: #bbb ;
+  text-align: center;
+    padding-top: 10px;
+    padding-left: 2px;
+    padding-bottom: -36px;
+    padding-right: 11px;
+}
+i{
+    color: black;
+}
+i:hover{
+    color: rgb(59, 89, 152);
+}
+body{
+    border: 1px solid black;
+    padding-left: 25px;
+    max-width: 280px;
+}
