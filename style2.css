@@ -1,0 +1,15 @@
+li{
+    display: inline-block;
+    list-style-type: none;
+}
+a{
+    color: rgb(38, 38, 38);
+    border: 1px solid black;
+    border-radius: 50%;
+    border-color: rgb(238, 238, 238) ;
+    background-color: rgb(238, 238, 238);
+    padding: 10px;
+}
+i:hover{
+    color: rgb(59, 89, 152);
+}
